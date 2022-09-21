@@ -1,0 +1,6 @@
+.hugo_build.lock
+resources/
+themes/
+node_modules
+testmarkdown.md
+content

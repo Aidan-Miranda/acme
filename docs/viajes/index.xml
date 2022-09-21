@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on Wororororo</title>
+    <link>http://example.org/viajes/</link>
+    <description>Recent content in Viajes on Wororororo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:45:33 +0200</lastBuildDate><atom:link href="http://example.org/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seúl</title>
+      <link>http://example.org/viajes/seoul/</link>
+      <pubDate>Wed, 21 Sep 2022 09:45:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/seoul/</guid>
+      <description>La capital coreana, Seúl
+Seúl, capital de Corea del Sur (aka Corea la Mala), es una de las mayores urbes tecnológicas y sociales del mundo moderno.</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>http://example.org/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 09:20:09 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/pirineo/</guid>
+      <description>El pirineo aragonés
+Esta es una imagen de un precioso pueblo a la orilla de un río en el pirineo aragonés, una región conocida por sus impactantes paisajes y su hermosa arquitectura.</description>
+    </item>
+    
+  </channel>
+</rss>
