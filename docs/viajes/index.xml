@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Viajes on Wororororo</title>
-    <link>/acme/viajes/</link>
-    <description>Recent content in Viajes on Wororororo</description>
+    <title>Mis súper viajes on Titulo nuevo</title>
+    <link>http://localhost/acme/viajes/</link>
+    <description>Recent content in Mis súper viajes on Titulo nuevo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:45:33 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 12:59:35 +0200</lastBuildDate><atom:link href="http://localhost/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Seúl</title>
-      <link>/acme/viajes/seoul/</link>
-      <pubDate>Wed, 21 Sep 2022 09:45:33 +0200</pubDate>
+      <title>Tokio</title>
+      <link>http://localhost/acme/viajes/tokio/</link>
+      <pubDate>Thu, 22 Sep 2022 12:59:42 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/seoul/</guid>
-      <description>La capital coreana, Seúl
-Seúl, capital de Corea del Sur (aka Corea la Mala), es una de las mayores urbes tecnológicas y sociales del mundo moderno.</description>
+      <guid>http://localhost/acme/viajes/tokio/</guid>
+      <description>Tokio ¿Te gustan las multitudes? ¿Te gustan las personas frívolas e individualistas? ¿Quieres trabajar 14 horas diarias 7 días a la semana? ¡Entonces Tokio es la ciudad ideal! Por el módico precio de entre 2 y 3 mil dólares estadounidenses podrás alquilar una casa de 15 metros cuadrados y vivir como una rata en el país Nipón.</description>
     </item>
     
     <item>
-      <title>Pirineo</title>
-      <link>/acme/viajes/pirineo/</link>
-      <pubDate>Wed, 21 Sep 2022 09:20:09 +0200</pubDate>
+      <title>Paris</title>
+      <link>http://localhost/acme/viajes/paris/</link>
+      <pubDate>Thu, 22 Sep 2022 12:59:35 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/pirineo/</guid>
-      <description>El pirineo aragonés
-Esta es una imagen de un precioso pueblo a la orilla de un río en el pirineo aragonés, una región conocida por sus impactantes paisajes y su hermosa arquitectura.</description>
+      <guid>http://localhost/acme/viajes/paris/</guid>
+      <description>París Conocida como la ciudad del amor, la capital parisina es una ciudad llena de una arquitectura fascinante, un olor a mierda gracias a su río de aguas marrones y muchos, muchos franceses.</description>
+    </item>
+    
+    <item>
+      <title>Seul</title>
+      <link>http://localhost/acme/viajes/seoul/</link>
+      <pubDate>Thu, 22 Sep 2022 12:59:17 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/acme/viajes/seoul/</guid>
+      <description>Seúl La capital de Corea del Sur, Seúl, es una ciudad conocida por su desarrollo económico y tecnológico. Si bien el desarrollo social decidieron dejarlo para otro día. Pudiendo encontrar casos constantes de racismo en las calles y clubs nocturnos, donde los turistas se sienten (y son) rechazados.</description>
     </item>
     
   </channel>

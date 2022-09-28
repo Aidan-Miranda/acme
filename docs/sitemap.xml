@@ -2,23 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/acme/viajes/seoul/</loc>
-    <lastmod>2022-09-21T09:45:33+02:00</lastmod>
+    <loc>http://localhost/acme/viajes/tokio/</loc>
+    <lastmod>2022-09-22T12:59:42+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/</loc>
-    <lastmod>2022-09-21T09:45:33+02:00</lastmod>
+    <loc>http://localhost/acme/</loc>
+    <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>/acme/</loc>
-    <lastmod>2022-09-21T09:45:33+02:00</lastmod>
+    <loc>http://localhost/acme/viajes/</loc>
+    <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/pirineo/</loc>
-    <lastmod>2022-09-21T09:20:09+02:00</lastmod>
+    <loc>http://localhost/acme/viajes/paris/</loc>
+    <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>/acme/curriculum/</loc>
-    <lastmod>2022-09-21T09:19:44+02:00</lastmod>
+    <loc>http://localhost/acme/viajes/seoul/</loc>
+    <lastmod>2022-09-22T12:59:17+02:00</lastmod>
   </url><url>
-    <loc>/acme/categories/</loc>
+    <loc>http://localhost/acme/acerca_de/</loc>
+    <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>/acme/tags/</loc>
+    <loc>http://localhost/acme/blog/</loc>
+    <lastmod>2022-09-22T12:52:57+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/acme/blog/entrada1/</loc>
+    <lastmod>2022-09-22T12:52:57+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/acme/blog/entrada2/</loc>
+    <lastmod>2022-09-22T12:52:57+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/acme/blog/entrada3/</loc>
+    <lastmod>2022-09-22T12:52:57+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/acme/contacto/</loc>
+    <lastmod>2022-09-22T12:52:27+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/acme/categories/</loc>
+  </url><url>
+    <loc>http://localhost/acme/tags/</loc>
   </url>
 </urlset>
