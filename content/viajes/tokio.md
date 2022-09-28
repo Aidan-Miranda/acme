@@ -3,7 +3,7 @@ title: "Tokio"
 date: 2022-09-22T12:59:42+02:00
 draft: false
 lat: 35.7049225
-long: 139.6011043
+lon: 139.6011043
 ---
 
 # Tokio

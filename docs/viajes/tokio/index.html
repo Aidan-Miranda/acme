@@ -119,13 +119,13 @@ crossorigin=""/>
 </div></footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 <script>
-var map = L.map('map').setView([ 35.7049225 ,  null ], 13);
+var map = L.map('map').setView([ 35.7049225 ,  139.6011043 ], 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-L.marker([ 35.7049225 ,  null 
+L.marker([ 35.7049225 ,  139.6011043 
 ]).addTo(map)
     .bindPopup('Tokio');
     
