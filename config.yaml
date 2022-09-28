@@ -1,8 +1,8 @@
-baseURL: /acme
+baseURL: "http://localhost/acme"
 languageCode: es-es
 title: Wororororo
-theme: Eclectic
-
+theme: basico
+  
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -14,14 +14,22 @@ author:
 
 menu:
   main: 
-    - identifier: Curriculum
-      name: Curriculum
-      url: /curriculum
+    - identifier: Acerca de
+      name: Acerca de
+      url: /acerca_de
       weight: 50
+    - identifier: Contacto
+      name: Contacto
+      url: /contacto
+      weight: 40
     - identifier: Viajes
       name: Viajes
       url: /viajes
-      weight: 40
+      weight: 60
+    - identifier: Blog
+      name: Blog
+      url: /blog
+      weight: 60
 
 params: 
   colorPickerEnabled: true
