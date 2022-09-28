@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>acme/viajes/tokio/</loc>
+    <loc>https://aidan-miranda.github.io/acme/viajes/tokio/</loc>
     <lastmod>2022-09-22T12:59:42+02:00</lastmod>
   </url><url>
-    <loc>acme/</loc>
+    <loc>https://aidan-miranda.github.io/acme/</loc>
     <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/</loc>
+    <loc>https://aidan-miranda.github.io/acme/viajes/</loc>
     <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/paris/</loc>
+    <loc>https://aidan-miranda.github.io/acme/viajes/paris/</loc>
     <lastmod>2022-09-22T12:59:35+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/seoul/</loc>
+    <loc>https://aidan-miranda.github.io/acme/viajes/seoul/</loc>
     <lastmod>2022-09-22T12:59:17+02:00</lastmod>
   </url><url>
-    <loc>acme/acerca_de/</loc>
+    <loc>https://aidan-miranda.github.io/acme/acerca_de/</loc>
     <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/</loc>
+    <loc>https://aidan-miranda.github.io/acme/blog/</loc>
     <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/entrada1/</loc>
+    <loc>https://aidan-miranda.github.io/acme/blog/entrada1/</loc>
     <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/entrada2/</loc>
+    <loc>https://aidan-miranda.github.io/acme/blog/entrada2/</loc>
     <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/entrada3/</loc>
+    <loc>https://aidan-miranda.github.io/acme/blog/entrada3/</loc>
     <lastmod>2022-09-22T12:52:57+02:00</lastmod>
   </url><url>
-    <loc>acme/contacto/</loc>
+    <loc>https://aidan-miranda.github.io/acme/contacto/</loc>
     <lastmod>2022-09-22T12:52:27+02:00</lastmod>
   </url><url>
-    <loc>acme/categories/</loc>
+    <loc>https://aidan-miranda.github.io/acme/categories/</loc>
   </url><url>
-    <loc>acme/tags/</loc>
+    <loc>https://aidan-miranda.github.io/acme/tags/</loc>
   </url>
 </urlset>

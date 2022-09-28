@@ -1,8 +1,7 @@
-baseURL: "acme"
-languageCode: es-es
-title: Acme Corp.
-theme: basico
-  
+baseURL: "https://aidan-miranda.github.io/acme/"
+languageCode: es-es 
+title: Acme Corporation 
+theme: basico 
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -13,23 +12,23 @@ author:
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
 
 menu:
-  main: 
-    - identifier: Acerca de
-      name: Acerca de
-      url: /acerca_de
-      weight: 50
-    - identifier: Contacto
-      name: Contacto
-      url: /contacto
-      weight: 40
-    - identifier: Viajes
+  main:
+    - identifier: about 
+      name: Acerca de 
+      url: /acerca_de 
+      weight: 100 
+    - identifier: contact
+      name: Contacto 
+      url: /contacto 
+      weight: 200 
+    - identifier: viajes
       name: Viajes
       url: /viajes
-      weight: 60
-    - identifier: Blog
+      weight: 50  
+    - identifier: blog
       name: Blog
       url: /blog
-      weight: 70
+      weight: 40       
 
 params: 
   colorPickerEnabled: true
@@ -47,5 +46,6 @@ params:
   - title: Publicaciones recientes
     recents: blog
     recentCount: 7
+
   - title: Contact Us
-    contact: true 
+    contact: true
