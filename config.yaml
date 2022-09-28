@@ -1,6 +1,6 @@
 baseURL: "acme"
 languageCode: es-es
-title: Titulo nuevo
+title: Acme Corp.
 theme: basico
   
 author: 
@@ -29,7 +29,7 @@ menu:
     - identifier: Blog
       name: Blog
       url: /blog
-      weight: 60
+      weight: 70
 
 params: 
   colorPickerEnabled: true
