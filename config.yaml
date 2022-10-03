@@ -28,7 +28,15 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog
-      weight: 40       
+      weight: 40
+    - identifier: television
+      name: Televisión
+      url: /television/television
+      weight: 20    
+    - identifier: pilares
+      name: Pilares
+      url: /pilares/pilares
+      weight: 10    
 
 params: 
   colorPickerEnabled: true

@@ -2,6 +2,8 @@
 title: "Seul"
 date: 2022-09-22T12:59:17+02:00
 draft: false
+lat: 37.5637733
+lon: 126.8340022
 ---
 
 # Seúl

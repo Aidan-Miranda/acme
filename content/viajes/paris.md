@@ -2,6 +2,8 @@
 title: "Paris"
 date: 2022-09-22T12:59:35+02:00
 draft: false
+lat: 48.8618407
+lon: 2.3229076
 ---
 
 # París
