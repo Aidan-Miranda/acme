@@ -10,6 +10,24 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Thu, 22 Sep 2022 12:59:35 +0200</lastBuildDate><atom:link href="https://aidan-miranda.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pilares 2022</title>
+      <link>https://aidan-miranda.github.io/acme/pilares/pilares/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:08 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://aidan-miranda.github.io/acme/pilares/pilares/</guid>
+      <description>Programación de pilares para el año 2022 </description>
+    </item>
+    
+    <item>
+      <title>Televisión</title>
+      <link>https://aidan-miranda.github.io/acme/television/television/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:08 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://aidan-miranda.github.io/acme/television/television/</guid>
+      <description>Canales de televisión en internet bla bla bla&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tokio</title>
       <link>https://aidan-miranda.github.io/acme/viajes/tokio/</link>
       <pubDate>Thu, 22 Sep 2022 12:59:42 +0200</pubDate>

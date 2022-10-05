@@ -30,6 +30,16 @@ crossorigin=""/>
                 
                 <li class="nav-item">
                     <a class='nav-link '
+                        href="/acme/pilares/pilares">Pilares</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class='nav-link '
+                        href="/acme/television/television">Televisión</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class='nav-link '
                         href="/acme/blog">Blog</a>
                 </li>
                 
@@ -119,13 +129,13 @@ crossorigin=""/>
 </div></footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 <script>
-var map = L.map('map').setView([ null ,  null ], 13);
+var map = L.map('map').setView([ 37.5637733 ,  126.8340022 ], 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-L.marker([ null ,  null 
+L.marker([ 37.5637733 ,  126.8340022 
 ]).addTo(map)
     .bindPopup('Seul');
     
