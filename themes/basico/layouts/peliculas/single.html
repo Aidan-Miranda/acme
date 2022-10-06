@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <ul class="list-group">
+        {{ range .Site.Data.datos_pelis }}
+        <li class="list-group-item">
+            <img src="{{ .img }}" alt="{{ .titulo }}"> {{ .ranking }}
+            <a href="https://www.imdb.com/{{ .url }}"> {{ .titulo }}
+            </a> 
+            {{ .year }}. <img src="https://cdn2.iconfinder.com/data/icons/crystalproject/crystal_project_256x256/apps/keditbookmarks.png" alt="estrella" style="height: 12px;">
+            {{ .rating }}
+
+            {{ end }}
+
+        </li>
+    </ul>
+
+</div>
+{{ end }}

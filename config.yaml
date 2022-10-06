@@ -36,7 +36,19 @@ menu:
     - identifier: pilares
       name: Pilares
       url: /pilares/pilares
-      weight: 10    
+      weight: 10  
+    - identifier: peliculas
+      name: Peliculas
+      url: /peliculas/peliculas
+      weight: 10 
+    - identifier: datos externos
+      name: Datos externos
+      url: /datos_remotos/datos_remotos
+      weight: 10   
+    - identifier: institutos
+      name: Institutos
+      url: /institutos/institutos
+      weight: 10   
 
 params: 
   colorPickerEnabled: true
